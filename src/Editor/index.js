@@ -65,7 +65,7 @@ class WysiwygEditor extends Component {
       editorFocused: false,
       toolbar,
     };
-    console.log('init editor');
+    console.log('init editor 1');
   }
 
   componentDidMount() {
